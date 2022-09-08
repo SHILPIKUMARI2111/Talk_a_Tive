@@ -4,7 +4,6 @@
 
 https://talk-a-tive.herokuapp.com/
 
-![](https://github.com/abhirajk000/chit_chat_app/blob/main/screenshots/group%20%2B%20notif.PNG)
 
 
 
@@ -74,8 +73,5 @@ Start the Client
 ### Add or Remove users from group
 ![](https://github.com/abhirajk000/chit_chat_app/blob/main/screenshots/add%20rem.PNG)
 
-## Made By
-
-- [@Abhirajk000](https://github.com/abhirajk000)
 
   
