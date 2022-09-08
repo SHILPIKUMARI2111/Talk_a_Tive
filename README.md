@@ -55,10 +55,9 @@ Start the Client
   
 # Features
 
-### View Profile
-![](https://github.com/abhirajk000/chit_chat_app/blob/main/screenshots/profile.PNG)
+
 ### Authenticaton
-![](https://github.com/abhirajk000/chit_chat_app/blob/main/screenshots/login.PNG)
+
 ![](https://github.com/abhirajk000/chit_chat_app/blob/main/screenshots/signup.PNG)
 ### Real Time Chatting with Typing indicators
 ![](https://github.com/abhirajk000/chit_chat_app/blob/main/screenshots/real-time.PNG)
